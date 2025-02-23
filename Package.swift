@@ -9,6 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "AppsFlyerMigrationHelper",
+            type: .dynamic,
             targets: ["AppsFlyerMigrationHelper"])
     ],
     targets: [
