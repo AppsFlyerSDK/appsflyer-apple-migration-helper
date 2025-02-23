@@ -31,9 +31,6 @@ Add to your Podfile and run `pod install`:
 ```
 // for statically linked dependency
 pod 'AppsFlyerMigrationHelper'
-
-// for dynamically linked dependency
-pod 'AppsFlyerMigrationHelper/Dynamic'
 ```
 
 
