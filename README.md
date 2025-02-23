@@ -35,9 +35,9 @@ pod 'AppsFlyerMigrationHelper'
 
 
 ## <a id="carthage">  Adding The Connector To Your Project via Carthage: 
-Go to the `Carthage` folder in the root of the repository. Open `AppsFlyerMigrationHelper-dynamic.json` or `AppsFlyerMigrationHelper-static.json`, click raw, copy and paste the URL of the file to your `Cartfile`: 
+Go to the `Carthage` folder in the root of the repository. Open `AppsFlyerMigrationHelper-dynamic.json`, click raw, copy and paste the URL of the file to your `Cartfile`: 
 ```
-binary "https://raw.githubusercontent.com/AppsFlyerSDK/AppsFlyerMigrationHelper/main/Carthage/AppsFlyerMigrationHelper-dynamic.json" == BIINARY_VERSION
+binary "https://raw.githubusercontent.com/AppsFlyerSDK/appsflyer-apple-migration-helper/main/Carthage/AppsFlyerMigrationHelper-dynamic.json" == BIINARY_VERSION
 ```
 Then open project folder in the terminal and use command `carthage update --use-xcframeworks`, then, drag and drop AppsFlyerMigrationHelper.xcframework binary (from Carthage/Build/iOS folder).
 
@@ -45,9 +45,6 @@ More reference on Carthage binary artifacts integration [here](https://github.co
 
 ## <a id="spm">  Adding The Connector To Your Project via SPM: 
 Please, follow standard SPM dependency manager instructions.
-
-> *Note: This repository contains statically linked `AppsFlyerMigrationHelper.xcframework`. If you want to use dynamic .xcframework, please integrate it for SPM from this repository:
-https://github.com/AppsFlyerSDK/AppsFlyerMigrationHelper-Dynamic* 
 
 
 ## <a id="basic-integration"> Basic Integration Of The AppsFlyerMigrationHelper
