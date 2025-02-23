@@ -60,7 +60,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     ...
         Branch.getInstance().lastAttributedTouchData(withAttributionWindow:<#DAY>) { (params, error) in
             if let params = params {
-                AppsFlyerMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON)
+                AppsFlyerMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON, attributionWindow: params.attributionWindow)
             }
         }
     ...
@@ -137,7 +137,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         Branch.getInstance().lastAttributedTouchData(withAttributionWindow:0) { (params, error) in
             if let params = params {
-                AppsFlyerMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON)
+                AppsFlyerMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON, attributionWindow: params.attributionWindow)
             }
         }
         AppsFlyerLib.shared().appleAppID = "<apple app ID>"
