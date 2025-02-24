@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name             = 'AppsFlyerMigrationHelper'
-    s.version          = "6.16.2"
+    s.version          = "1.0.0"
     s.summary          = 'AppsFlyer iOS SDK Migration Helper'
 
     s.description      = <<-DESC
