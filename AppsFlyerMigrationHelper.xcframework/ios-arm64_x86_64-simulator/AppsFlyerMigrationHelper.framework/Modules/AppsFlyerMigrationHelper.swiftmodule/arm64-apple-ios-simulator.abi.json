@@ -1,0 +1,504 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AppsFlyerMigrationHelper",
+    "printedName": "AppsFlyerMigrationHelper",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AppsFlyerMigrationHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MigrationDataType",
+        "printedName": "MigrationDataType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "attribution",
+            "printedName": "attribution",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AppsFlyerMigrationHelper.MigrationDataType.Type) -> AppsFlyerMigrationHelper.MigrationDataType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MigrationDataType",
+                    "printedName": "AppsFlyerMigrationHelper.MigrationDataType",
+                    "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AppsFlyerMigrationHelper.MigrationDataType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MigrationDataType",
+                        "printedName": "AppsFlyerMigrationHelper.MigrationDataType",
+                        "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType@MigrationDataTypeAttribution",
+            "mangledName": "$s24AppsFlyerMigrationHelper0C8DataTypeO11attributionyA2CmF",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "deepLinking",
+            "printedName": "deepLinking",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AppsFlyerMigrationHelper.MigrationDataType.Type) -> AppsFlyerMigrationHelper.MigrationDataType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MigrationDataType",
+                    "printedName": "AppsFlyerMigrationHelper.MigrationDataType",
+                    "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AppsFlyerMigrationHelper.MigrationDataType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MigrationDataType",
+                        "printedName": "AppsFlyerMigrationHelper.MigrationDataType",
+                        "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType@MigrationDataTypeDeepLinking",
+            "mangledName": "$s24AppsFlyerMigrationHelper0C8DataTypeO11deepLinkingyA2CmF",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AppsFlyerMigrationHelper.MigrationDataType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MigrationDataType",
+                    "printedName": "AppsFlyerMigrationHelper.MigrationDataType",
+                    "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:24AppsFlyerMigrationHelper0C8DataTypeO8rawValueACSgSi_tcfc",
+            "mangledName": "$s24AppsFlyerMigrationHelper0C8DataTypeO8rawValueACSgSi_tcfc",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:24AppsFlyerMigrationHelper0C8DataTypeO8rawValueSivp",
+            "mangledName": "$s24AppsFlyerMigrationHelper0C8DataTypeO8rawValueSivp",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:24AppsFlyerMigrationHelper0C8DataTypeO8rawValueSivg",
+                "mangledName": "$s24AppsFlyerMigrationHelper0C8DataTypeO8rawValueSivg",
+                "moduleName": "AppsFlyerMigrationHelper",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "c:@M@AppsFlyerMigrationHelper@E@MigrationDataType",
+        "mangledName": "$s24AppsFlyerMigrationHelper0C8DataTypeO",
+        "moduleName": "AppsFlyerMigrationHelper",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AppsFlyerMigrationHelper",
+        "printedName": "AppsFlyerMigrationHelper",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AppsFlyerMigrationHelper",
+                "printedName": "AppsFlyerMigrationHelper.AppsFlyerMigrationHelper",
+                "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(cpy)shared",
+            "mangledName": "$s24AppsFlyerMigrationHelperAAC6sharedABvpZ",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AppsFlyerMigrationHelper",
+                    "printedName": "AppsFlyerMigrationHelper.AppsFlyerMigrationHelper",
+                    "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(cm)shared",
+                "mangledName": "$s24AppsFlyerMigrationHelperAAC6sharedABvgZ",
+                "moduleName": "AppsFlyerMigrationHelper",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setAttributionData",
+            "printedName": "setAttributionData(_:attributionWindow:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.AnyHashable : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.AnyHashable : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSNumber",
+                "printedName": "Foundation.NSNumber",
+                "usr": "c:objc(cs)NSNumber"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(im)setAttributionData:attributionWindow:",
+            "mangledName": "$s24AppsFlyerMigrationHelperAAC18setAttributionData_17attributionWindowySDys11AnyHashableVypGSg_So8NSNumberCtF",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDeepLinkingData",
+            "printedName": "setDeepLinkingData(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.AnyHashable : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.AnyHashable : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(im)setDeepLinkingData:",
+            "mangledName": "$s24AppsFlyerMigrationHelperAAC18setDeepLinkingDatayySDys11AnyHashableVypGSgF",
+            "moduleName": "AppsFlyerMigrationHelper",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper",
+        "mangledName": "$s24AppsFlyerMigrationHelperAAC",
+        "moduleName": "AppsFlyerMigrationHelper",
+        "declAttributes": [
+          "AccessControl",
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 11,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 581,
+      "length": 36,
+      "value": "\"com.appsflyer.migrationHelper.sync\""
+    }
+  ]
+}

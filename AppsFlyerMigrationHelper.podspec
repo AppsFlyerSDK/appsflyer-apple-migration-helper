@@ -22,8 +22,8 @@ Pod::Spec.new do |s|
     s.swift_version = '5.0'
 
     s.subspec 'Main' do |ss|
-        ss.ios.preserve_paths = 'Dynamic/AppsFlyerMigrationHelper.xcframework'
-        ss.ios.vendored_frameworks = 'Dynamic/AppsFlyerMigrationHelper.xcframework'
+        ss.ios.preserve_paths = 'AppsFlyerMigrationHelper.xcframework'
+        ss.ios.vendored_frameworks = 'AppsFlyerMigrationHelper.xcframework'
         ss.ios.resource_bundles = {'AppsFlyerMigrationHelper_Privacy' => ['Resources/PrivacyInfo.xcprivacy']}
      end
 
