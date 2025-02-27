@@ -238,8 +238,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "AppsFlyerMigrationHelper",
-        "printedName": "AppsFlyerMigrationHelper",
+        "name": "AFMigrationHelper",
+        "printedName": "AFMigrationHelper",
         "children": [
           {
             "kind": "Var",
@@ -248,14 +248,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "AppsFlyerMigrationHelper",
-                "printedName": "AppsFlyerMigrationHelper.AppsFlyerMigrationHelper",
-                "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper"
+                "name": "AFMigrationHelper",
+                "printedName": "AppsFlyerMigrationHelper.AFMigrationHelper",
+                "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper"
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(cpy)shared",
-            "mangledName": "$s24AppsFlyerMigrationHelperAAC6sharedABvpZ",
+            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper(cpy)shared",
+            "mangledName": "$s24AppsFlyerMigrationHelper011AFMigrationD0C6sharedACvpZ",
             "moduleName": "AppsFlyerMigrationHelper",
             "static": true,
             "declAttributes": [
@@ -275,14 +275,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "AppsFlyerMigrationHelper",
-                    "printedName": "AppsFlyerMigrationHelper.AppsFlyerMigrationHelper",
-                    "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper"
+                    "name": "AFMigrationHelper",
+                    "printedName": "AppsFlyerMigrationHelper.AFMigrationHelper",
+                    "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(cm)shared",
-                "mangledName": "$s24AppsFlyerMigrationHelperAAC6sharedABvgZ",
+                "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper(cm)shared",
+                "mangledName": "$s24AppsFlyerMigrationHelper011AFMigrationD0C6sharedACvgZ",
                 "moduleName": "AppsFlyerMigrationHelper",
                 "static": true,
                 "implicit": true,
@@ -339,8 +339,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(im)setAttributionData:attributionWindow:",
-            "mangledName": "$s24AppsFlyerMigrationHelperAAC18setAttributionData_17attributionWindowySDys11AnyHashableVypGSg_So8NSNumberCtF",
+            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper(im)setAttributionData:attributionWindow:",
+            "mangledName": "$s24AppsFlyerMigrationHelper011AFMigrationD0C18setAttributionData_17attributionWindowySDys11AnyHashableVypGSg_So8NSNumberCtF",
             "moduleName": "AppsFlyerMigrationHelper",
             "declAttributes": [
               "Final",
@@ -389,8 +389,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper(im)setDeepLinkingData:",
-            "mangledName": "$s24AppsFlyerMigrationHelperAAC18setDeepLinkingDatayySDys11AnyHashableVypGSgF",
+            "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper(im)setDeepLinkingData:",
+            "mangledName": "$s24AppsFlyerMigrationHelper011AFMigrationD0C18setDeepLinkingDatayySDys11AnyHashableVypGSgF",
             "moduleName": "AppsFlyerMigrationHelper",
             "declAttributes": [
               "Final",
@@ -402,8 +402,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AppsFlyerMigrationHelper",
-        "mangledName": "$s24AppsFlyerMigrationHelperAAC",
+        "usr": "c:@M@AppsFlyerMigrationHelper@objc(cs)AFMigrationHelper",
+        "mangledName": "$s24AppsFlyerMigrationHelper011AFMigrationD0C",
         "moduleName": "AppsFlyerMigrationHelper",
         "declAttributes": [
           "AccessControl",
@@ -487,18 +487,25 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/veronicabelyakov\/Applications\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/veronicabelyakov\/Applications\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "StringLiteral",
-      "offset": 581,
+      "offset": 567,
       "length": 36,
       "value": "\"com.appsflyer.migrationHelper.sync\""
+    },
+    {
+      "filePath": "\/Users\/veronicabelyakov\/Applications\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "Dictionary",
+      "offset": 703,
+      "length": 3,
+      "value": "[]"
     }
   ]
 }

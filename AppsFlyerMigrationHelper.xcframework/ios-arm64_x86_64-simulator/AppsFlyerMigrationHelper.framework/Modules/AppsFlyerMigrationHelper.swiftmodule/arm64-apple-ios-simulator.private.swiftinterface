@@ -17,8 +17,8 @@ import _SwiftConcurrencyShims
     get
   }
 }
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class AppsFlyerMigrationHelper : ObjectiveC.NSObject {
-  @objc public static let shared: AppsFlyerMigrationHelper.AppsFlyerMigrationHelper
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class AFMigrationHelper : ObjectiveC.NSObject {
+  @objc public static let shared: AppsFlyerMigrationHelper.AFMigrationHelper
   @objc final public func setAttributionData(_ params: [Swift.AnyHashable : Any]?, attributionWindow: Foundation.NSNumber)
   @objc final public func setDeepLinkingData(_ params: [Swift.AnyHashable : Any]?)
   @objc deinit

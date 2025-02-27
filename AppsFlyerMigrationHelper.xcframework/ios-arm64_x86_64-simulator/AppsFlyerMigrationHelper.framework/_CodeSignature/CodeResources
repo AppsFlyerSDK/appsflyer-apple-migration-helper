@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AppsFlyerMigrationHelper-Swift.h</key>
 		<data>
-		h//58WD5HkDSXGkH+6cICUlQo44=
+		sh4rkel0yw720S0ZLVrR+l3ArOA=
 		</data>
 		<key>Headers/AppsFlyerMigrationHelper.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		q7GF+2Rvf9gvshkIP9AouMeML7Y=
+		m5Zc53lYISz5gkiQ1zBr9cCxqMc=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		esUNO1YN6o0pJmIJiYol5AYz3TA=
+		o2F+LLDFh9kgFBeg5IUAWzmaG/M=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SMKZjAPlwH54LUXg2WN+a6rxXwQ=
+		WYKo5okvI6l6YRNPRSwFbkl4YJQ=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Lpi1neZRZCzC5Hna910Jg+NFzKU=
+		brgiXIodz+N0vh5WPWsQIgunZvA=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SMKZjAPlwH54LUXg2WN+a6rxXwQ=
+		WYKo5okvI6l6YRNPRSwFbkl4YJQ=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mcCxjkkRu4rORmZJH4nbBAqrKXw=
+		PT9oNhah+QzFhu2T/Ff1GvmtyOs=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		esUNO1YN6o0pJmIJiYol5AYz3TA=
+		o2F+LLDFh9kgFBeg5IUAWzmaG/M=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		8QadWpTXx0d+eEfVfN4Uula9G1A=
+		kEIsdn8w9zf4B/ZDPXMiGGJFPb8=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZHXenT5u5iWmNl3gBrQ7XZQkRu8=
+		wYnx+a8Dx4H7nisv4RP3KPoi7JE=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8QadWpTXx0d+eEfVfN4Uula9G1A=
+		kEIsdn8w9zf4B/ZDPXMiGGJFPb8=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SWWhDG1jQnpl5HJaZGhbe90tmrk=
+		st+p+cMcFEJQrLvgDISK3WFnaWI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EQ3p6Ry09sSpNjqjPXpjP5jsmjtUlG3OXHsjq0gvwmE=
+			kZFPZGarV93NFb3jzuLBecfq/ugRk/iSCMMiF9g7tTk=
 			</data>
 		</dict>
 		<key>Headers/AppsFlyerMigrationHelper.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Km4RlKIQ5ttHJPO3l+OPQ4H5QOuWMxBg50kc2Y36rmQ=
+			ucCqwTbO8i1RKIuLjAfzCwTUa4OHy3/sUAdKfs6WRfs=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eV0mlzP31p3en4zChNw6i/OaeUhnfjcYqmHTgayQ5nE=
+			vw+P0cXP9azo0xi3Jvwb5digeiLi5AeKRTGReSDAMcw=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pMMcA1q3A4g5pjyGrWyV0cX0mm4U0svzouw5kFNtdpE=
+			Q0maiMp+b9pg944WVnCwNB91e/EebQRenNGMkBRr6mc=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eV0mlzP31p3en4zChNw6i/OaeUhnfjcYqmHTgayQ5nE=
+			vw+P0cXP9azo0xi3Jvwb5digeiLi5AeKRTGReSDAMcw=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lepBpVqcPfL+0rUAETpIqMZOblD4OpUjx/DlU9+2QWo=
+			UdSwD+8AX36D16FCExGWiMQXmxyHDe5ogTOuQUdYK5c=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Km4RlKIQ5ttHJPO3l+OPQ4H5QOuWMxBg50kc2Y36rmQ=
+			ucCqwTbO8i1RKIuLjAfzCwTUa4OHy3/sUAdKfs6WRfs=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ruLxhoqfdBRimSCPHqcy4+p6laLq8j4yR0MHnFUVNQg=
+			PbWOFQawT1Lo9ezJgV3QqDXt6ehxAZnCr5a3LpB7vzk=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VwH8aPNE9v4MhFJxruBiTrQ80QEuH3AqA24EpVwIdaE=
+			2avwvGrIMX3JID1TeZz6MWZddEcdrMhwfF40bmTXjaw=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ruLxhoqfdBRimSCPHqcy4+p6laLq8j4yR0MHnFUVNQg=
+			PbWOFQawT1Lo9ezJgV3QqDXt6ehxAZnCr5a3LpB7vzk=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ig3HOxscKoqTLiKLC/1IBl1ZSk1UsDFQpmRndmCzfeg=
+			uXjb6jCLhhq2Zk46KHaUeA5TzVG104SBrtYKdDVw+ic=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

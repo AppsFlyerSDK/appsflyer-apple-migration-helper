@@ -305,10 +305,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 @class NSNumber;
 
-SWIFT_CLASS("_TtC24AppsFlyerMigrationHelper24AppsFlyerMigrationHelper")
-@interface AppsFlyerMigrationHelper : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AppsFlyerMigrationHelper * _Nonnull shared;)
-+ (AppsFlyerMigrationHelper * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS("_TtC24AppsFlyerMigrationHelper17AFMigrationHelper")
+@interface AFMigrationHelper : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) AFMigrationHelper * _Nonnull shared;)
++ (AFMigrationHelper * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 /// Sets the attribution data
