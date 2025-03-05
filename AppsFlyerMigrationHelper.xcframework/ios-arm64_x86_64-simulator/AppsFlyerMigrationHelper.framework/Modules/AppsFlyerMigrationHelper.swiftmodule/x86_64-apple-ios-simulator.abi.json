@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "AppsFlyerMigrationHelper",
-    "printedName": "AppsFlyerMigrationHelper",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
     "children": [
       {
         "kind": "Import",
@@ -184,20 +184,6 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -419,20 +405,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -487,25 +459,74 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/veronicabelyakov\/Applications\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/veronicabelyakov\/Applications\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 11,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "StringLiteral",
       "offset": 567,
       "length": 36,
       "value": "\"com.appsflyer.migrationHelper.sync\""
     },
     {
-      "filePath": "\/Users\/veronicabelyakov\/Applications\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "Dictionary",
       "offset": 703,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "Dictionary",
+      "offset": 901,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 971,
+      "length": 20,
+      "value": "\"attribution_window\""
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1028,
+      "length": 28,
+      "value": "\"last_attributed_touch_data\""
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "Dictionary",
+      "offset": 1464,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "FloatLiteral",
+      "offset": 1889,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2651,
+      "length": 72,
+      "value": "\"[AFMigrationHelper] Timeout occurred while waiting for migration data.\""
     }
   ]
 }
