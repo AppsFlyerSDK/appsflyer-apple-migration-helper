@@ -15,7 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppsFlyerMigrationHelper",
-            path: "AppsFlyerMigrationHelper.xcframework"
+            url: "https://github.com/AppsFlyerSDK/appsflyer-apple-migration-helper/releases/download/1.0.0/AppsFlyerMigrationHelper.xcframework.zip",
+            checksum: "e54461fde148da5e551594e4d7f7309465be8f4679041c1390fdf09d8f8fc37b"
         )
     ]
 )
