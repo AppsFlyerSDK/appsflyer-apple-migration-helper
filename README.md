@@ -60,7 +60,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     ...
         Branch.getInstance().lastAttributedTouchData(withAttributionWindow:<#DAY>) { (params, error) in
             if let params = params {
-                AppsFlyerMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON, attributionWindow: params.attributionWindow)
+                AFMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON, attributionWindow: params.attributionWindow)
             }
         }
     ...
@@ -83,7 +83,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             print(params as? [String: AnyObject] ?? {})
             // Access and use deep link data here (nav to page, display content, etc.)
             if (params?["~referring_link"] != nil){
-                AppsFlyerMigrationHelper.shared.setDeeplinkData(params)
+                AFMigrationHelper.shared.setDeeplinkData(params)
             }
         }
     ...
@@ -131,13 +131,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             print(params as? [String: AnyObject] ?? {})
             // Access and use deep link data here (nav to page, display content, etc.)
             if (params?["~referring_link"] != nil){
-                AppsFlyerMigrationHelper.shared.setDeeplinkData(params)
+                AFMigrationHelper.shared.setDeeplinkData(params)
             }
         }
         
         Branch.getInstance().lastAttributedTouchData(withAttributionWindow:0) { (params, error) in
             if let params = params {
-                AppsFlyerMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON, attributionWindow: params.attributionWindow)
+                AFMigrationHelper.shared.setAttributionData(params.lastAttributedTouchJSON, attributionWindow: params.attributionWindow)
             }
         }
         AppsFlyerLib.shared().appleAppID = "<apple app ID>"
