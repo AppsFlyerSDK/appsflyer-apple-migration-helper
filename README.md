@@ -44,7 +44,18 @@ Then open project folder in the terminal and use command `carthage update --use-
 More reference on Carthage binary artifacts integration [here](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md).
 
 ## <a id="spm">  Adding The Connector To Your Project via SPM: 
-Please, follow standard SPM dependency manager instructions.
+To integrate the AppsFlyer Apple Migration Helper via Swift Package Manager (SPM):
+
+1. In Xcode, go to File > Swift Packages > Add Package Dependency.
+
+2. Enter the repository URL:
+```
+https://github.com/AppsFlyerSDK/appsflyer-apple-migration-helper
+```
+
+3. Choose the desired version or branch.
+
+4. Select your project’s target and click Finish.
 
 
 ## <a id="basic-integration"> Basic Integration Of The AppsFlyerMigrationHelper
