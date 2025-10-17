@@ -381,8 +381,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
-              "ObjC",
-              "RawDocComment"
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -392,8 +391,8 @@
         "mangledName": "$s24AppsFlyerMigrationHelper011AFMigrationD0C",
         "moduleName": "AppsFlyerMigrationHelper",
         "declAttributes": [
-          "AccessControl",
           "Final",
+          "AccessControl",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -459,74 +458,32 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/ivan.obodovskyi\/Developer\/iOS-SDK\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/ivan.obodovskyi\/Developer\/iOS-SDK\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 11,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/ivan.obodovskyi\/Developer\/iOS-SDK\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 587,
       "length": 36,
       "value": "\"com.appsflyer.migrationHelper.sync\""
     },
     {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
+      "filePath": "\/Users\/ivan.obodovskyi\/Developer\/iOS-SDK\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
       "kind": "Dictionary",
-      "offset": 703,
+      "offset": 761,
       "length": 3,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
-      "kind": "Dictionary",
-      "offset": 901,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 971,
-      "length": 20,
-      "value": "\"attribution_window\""
-    },
-    {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1028,
-      "length": 28,
-      "value": "\"last_attributed_touch_data\""
-    },
-    {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
-      "kind": "Dictionary",
-      "offset": 1464,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
-      "kind": "FloatLiteral",
-      "offset": 1889,
-      "length": 3,
-      "value": "3.0"
-    },
-    {
-      "filePath": "\/Users\/moris.gateno\/Desktop\/AppsFlyer\/Projects\/appsflyer.sdk.ios\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper\/AppsFlyerMigrationHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 2651,
-      "length": 72,
-      "value": "\"[AFMigrationHelper] Timeout occurred while waiting for migration data.\""
     }
   ]
 }
