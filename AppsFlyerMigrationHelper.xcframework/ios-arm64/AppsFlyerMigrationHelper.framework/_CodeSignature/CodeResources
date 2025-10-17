@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AppsFlyerMigrationHelper-Swift.h</key>
 		<data>
-		fFQznHLbXetMkW/Cun1jrh7LiDw=
+		F9iMPmP189loX15g/cZZD08FpEk=
 		</data>
 		<key>Headers/AppsFlyerMigrationHelper.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aHMKCzJHKLxJLCfjLpKhefzCj18=
+		9v/cP5oyjnZKcfauF38QuIXdKXo=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		feJ+Vgiqc7r19bcMiknjPsN3+Pk=
+		xD8HQXuDB1baRmN7W78YkjpGCHQ=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		TU/GsjjYtqQnbgRLOx4L73Ubht4=
+		4WPptCLUCSTEadCyhC85MXtbp9A=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		mkIF/WtgIQs6FDkn8si575b2OZY=
+		3dnfqePhTh5m8OQic1Njyrwb79U=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		TU/GsjjYtqQnbgRLOx4L73Ubht4=
+		4WPptCLUCSTEadCyhC85MXtbp9A=
 		</data>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vh+lsFix896ir0B5Cu5215WEBEs=
+		4rhgTJEjhjPWpPI9phcKlUtkmRA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lIGoRzfIdi5J4D/5wgWyu24MPMyH/sz4ovZCe86VNts=
+			qKlE3DObdDg+HZqtl1VDYjfbngS6BB2ozzOjAbzZzZY=
 			</data>
 		</dict>
 		<key>Headers/AppsFlyerMigrationHelper.h</key>
@@ -65,35 +65,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			twuOIDKBkhKXkRZq49PDpEI2jph5FWDxh/RBCpD7mn0=
+			Mxq1SljfC4Y5LnXYupFtkZ526j18ZUr+lExInlGOqtE=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+4311/OUdkt+20/r7LeXcPnrmfLgbW+LjZ09VK43TJY=
+			wNXwtIa+ChYwTl5f0yeyCe75RrgrD4VsSPMh1++EPk4=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j5OXjlB8r07uqKKuFsSQ0wEGIGG+yzUiyfNUSZBkO9g=
+			MZwXEbVDOvxmvn1wkPB7AMKzuI5bgd0cxYc98L76gDI=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+4311/OUdkt+20/r7LeXcPnrmfLgbW+LjZ09VK43TJY=
+			wNXwtIa+ChYwTl5f0yeyCe75RrgrD4VsSPMh1++EPk4=
 			</data>
 		</dict>
 		<key>Modules/AppsFlyerMigrationHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			daVtnQCBxHJKZYRyQ7ffsV7EDP/TOdaCfewdxjfedME=
+			wGtkdMZ93Fq6/tpuMApx6UK8PiZqy5wzEhV2XYKzRqk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
